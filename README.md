@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kiran Amin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranamin01&label=Profile%20views&color=0e75b6&style=flat" alt="kiranamin01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kiranamin05" target="blank"><img src="https://img.shields.io/twitter/follow/kiranamin05?logo=twitter&style=for-the-badge" alt="kiranamin05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KiranAminDev" target="blank"><img src="https://img.shields.io/twitter/follow/KiranAminDev?logo=twitter&style=for-the-badge" alt="KiranAminDev" /></a> </p>
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **ReactJS , Javascript**
+- 🌱 I’m currently learning & Building on  **ReactJS , Javascript**
 
 - 💬 Ask me about **Frontend Web Dev**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kiranamin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiranamin05" height="30" width="40" /></a>
+<a href="https://twitter.com/KiranAminDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiranamin05" height="30" width="40" /></a>
 <a href="https://instagram.com/kiranamin.img" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiranamin.img" height="30" width="40" /></a>
 </p>
 
